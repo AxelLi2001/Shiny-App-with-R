@@ -1,0 +1,13 @@
+name: Climate_Change_CO2_Per_Capita
+title: Climate_Change_CO2_Per_Capita
+username:
+account: zli3
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5779113
+bundleId: 5640879
+url: https://zli3.shinyapps.io/Climate_Change_CO2_Per_Capita/
+when: 1646377659.57828
+lastSyncTime: 1646377659.57828
+asMultiple: FALSE
+asStatic: FALSE
